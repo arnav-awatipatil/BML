@@ -1,4 +1,4 @@
-# BML-LCA-2-Sandesh
+# BML-LCA-2-Arnav
 
 ## Build the Logistic Regression model using Bank marketing data set obtained from UCI ML repository
 
